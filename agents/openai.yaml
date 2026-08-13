@@ -1,0 +1,4 @@
+interface:
+  display_name: "批量视频三级字幕知识库"
+  short_description: "优先字幕轨与画面OCR，Whisper仅补充缺失内容"
+  default_prompt: "Use $batch-video-knowledge-base to extract accurate subtitles from a video folder using embedded tracks, OCR, and Whisper gap filling."

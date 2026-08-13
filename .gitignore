@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+
+# Local speech-recognition models
+models/
+*.bin
+
+# Generated knowledge-base outputs and source media
+本地知识库/
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.avi
+*.m4v
+
+# Temporary, editor, and OS files
+*.tmp
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
